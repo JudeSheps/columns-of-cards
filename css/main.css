@@ -26,6 +26,7 @@ a {
   border-left: solid;
   border-width: 1px;
   border-color: #000;
+  min-height: 29rem;
 }
 
 h1 {
@@ -91,4 +92,8 @@ small {
 
 .btn:hover {
   background-color: #000;
+}
+
+.btn-small {
+  font-size: .875rem;
 }
